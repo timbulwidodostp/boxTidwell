@@ -1,6 +1,8 @@
 # boxTidwell
 Computes the Box-Tidwell power transformations of the predictors in a linear model Use boxTidwell (car) With (In) R Software
 
+https://www.youtube.com/watch?v=S9kLrnKAjCs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
